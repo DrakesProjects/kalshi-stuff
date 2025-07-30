@@ -1,5 +1,5 @@
 # Kalshi stuff
-A demo of how to access some of kalshi's APIs. I'm currently working on a trading bot and robust infrastructure/tooling for trading on the platform. Direct any inquiries to drake.adams@hotmail.com
+A demo of how to access some of kalshi's APIs. I'm currently working on algorithms and robust infrastructure/tooling for trading on the platform. Direct any inquiries to drake.adams@hotmail.com
 
 ***DISCALIMER:*** Make sure you understand any code you run from this repository...
 
