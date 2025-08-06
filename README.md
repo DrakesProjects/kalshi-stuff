@@ -1,5 +1,5 @@
 # Kalshi stuff
-A demo of some of the kalshi exchange API's in Python. I'm working on more complex tooling for the exchange privately. Email any inquiries to Drake.adams@hotmail.com
+A demo of some of the kalshi exchange API's in Python. I'm working on more comprehensive infrastructure as well as trading algorithms for the exchange privately. Email any inquiries to Drake.adams@hotmail.com
 
 ***DISCALIMER:*** Make sure you understand any code you run from this repository...
 
